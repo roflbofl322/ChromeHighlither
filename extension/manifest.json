@@ -1,0 +1,27 @@
+{
+    "name": "Insert into db",
+    "description": "Build an Extension!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions":["storage", "activeTab" , "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "options_page": "option.html",
+    "commands": {
+        "run-foo": {
+          "suggested_key": {
+            "default": "Alt+Y"
+          },
+          "description": "Run \"foo\" on the current page."
+        },
+        "_execute_action": {
+          "suggested_key": {
+            "windows": "Ctrl+Y"
+          }
+        }
+      }
+  }
