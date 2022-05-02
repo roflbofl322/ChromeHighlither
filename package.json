@@ -1,0 +1,27 @@
+{
+  "name": "chromehighlither",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extensino/bakcground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roflbofl322/ChromeHighlither.git"
+  },
+  "keywords": [
+    "extension",
+    "ChromeHighlighter"
+  ],
+  "author": "sergiusz.holovin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roflbofl322/ChromeHighlither/issues"
+  },
+  "homepage": "https://github.com/roflbofl322/ChromeHighlither#readme",
+  "dependencies": {
+    "dexie": "^3.2.2"
+  },
+  "type": "module"
+}
