@@ -8,8 +8,10 @@
         "default_popup": "popup.html"
     },
     "background": {
-        "service_worker": "background.js"
-    },
+        "service_worker": "background.js" , "type":"module"
+        
+      },
+      "minimum_chrome_version": "92",
     "options_page": "option.html",
     "commands": {
         "run-foo": {
