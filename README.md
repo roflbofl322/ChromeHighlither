@@ -1,5 +1,5 @@
 # ChromeHighlighter
-I'my trying to build persistent highlighter for page chrome extension based on Manifest Version 3 (MV3)
+I'my trying to build persistent highlighter for page based on Manifest Version 3 (MV3)
 
 #Build 
 1.  Download the repo
