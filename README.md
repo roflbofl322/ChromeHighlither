@@ -1,4 +1,4 @@
-#ChromeHighlighter
+# ChromeHighlighter
 I'my trying to build persistent highlighter for page chrome extension based on Manifest Version 3 (MV3)
 
 #Build 
