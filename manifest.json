@@ -16,13 +16,16 @@
     "commands": {
         "run-foo": {
           "suggested_key": {
-            "default": "Alt+Y"
+            "default": "Alt+Y",
+            "mac": "MacCtrl+Y"
+
           },
           "description": "Run \"foo\" on the current page."
         },
         "_execute_action": {
           "suggested_key": {
-            "windows": "Ctrl+Y"
+            "windows": "Ctrl+Y",
+            "mac": "Ctrl+Y"
           }
         }
       }
